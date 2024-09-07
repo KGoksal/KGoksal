@@ -5,8 +5,6 @@
 </h1>
 <p>With over 2 years of IT experience, including more than 1 year in DevOps, I have a strong passion for automating IT operations and staying updated with emerging technologies. My expertise includes implementing and managing CI/CD pipelines (Jenkins), containerization, orchestration, monitoring, and automating production infrastructure. I have a proven track record of building tools to minimize errors, conducting root cause analysis, and enhancing customer experience.</p>
 
-<p>With over 2 years of IT experience, including more than 1 year in DevOps, I have a strong passion for automating IT operations and staying updated with emerging technologies. My expertise includes implementing and managing CI/CD pipelines (Jenkins), containerization, orchestration, monitoring, and automating production infrastructure. I have a proven track record of building tools to minimize errors, conducting root cause analysis, and enhancing customer experience.</p>
-
 <p>Currently, I am working as a DevOps Engineer at Nimbous, where I contribute to optimizing cloud infrastructure and automating workflows.</p>
 
 <p>I am certified in the following:</p>
