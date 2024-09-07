@@ -20,6 +20,7 @@
 
 <p>My background includes using automation tools for software updates across cloud platforms (AWS, Azure), optimizing cloud resources, and managing costs to ensure reliability, scalability, and performance for both enterprise and commercial clients.</p>
 
+<p>To reach out to me, click this link:</p>
 <a href="mailto:abdulkadirgoksal@gmail.com">
   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
     <path d="M4 4h16v16H4z"></path>
