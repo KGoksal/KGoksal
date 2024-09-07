@@ -6,7 +6,7 @@
 <h1>With over 2 years of IT experience, including more than 1 year in DevOps, I have a strong passion for automating IT operations and staying updated with emerging technologies. My expertise includes implementing and managing CI/CD pipelines (Jenkins), containerization, orchestration, monitoring, and automating production infrastructure. I have a proven track record of building tools to minimize errors, conducting root cause analysis, and enhancing customer experience.</h1>
 
 <h2>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+My+Certifications:;HashiCorp;Terraform+Associate;Azure+Fundamentals;Certified+Kubernetes+Administrator+(CKA)" alt="Title GitHub Readme" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+My+Certifications:;HashiCorp+Terraform+Associate;Az-900+Certified+Kubernetes+Administrator+(CKA)" alt="Title GitHub Readme" />
 
   
   
