@@ -1,8 +1,9 @@
 <h1 style="text-align: center;">
-  <a href="mailto:abdulkadirgoksal@gmail.com">
+  <a href="https://www.linkedin.com/in/kgoksal/" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Kadir+Goksal" alt="Title GitHub Readme" />
   </a>
 </h1>
+
 
 <p>With over 2 years of IT experience, including more than 1 year in DevOps, I have a strong passion for automating IT operations and staying updated with emerging technologies. My expertise includes implementing and managing CI/CD pipelines (Jenkins), containerization, orchestration, monitoring, and automating production infrastructure. I have a proven track record of building tools to minimize errors, conducting root cause analysis, and enhancing customer experience.</p>
 
@@ -27,10 +28,11 @@
 </a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kgoksal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kgoksal" height="30" width="40" /></a>
-</p>
+<h1 style="text-align: center;">
+  <a href="mailto:abdulkadirgoksal@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+To+Reach+Out:;abdulkadirgoksal@gmail.com" alt="Title GitHub Readme" />
+  </a>
+</h1>
 
 
 
