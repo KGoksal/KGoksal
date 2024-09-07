@@ -1,5 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
 <h1 align="center">Hi 👋, I'm Kadir</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Profile)](https://git.io/typing-svg)
 <h3 align="center">I am AWS & DevOps Engineer</h3>
  
 - 🔭 I’m currently working on **Docker, Kubernetess, Jenkins**
