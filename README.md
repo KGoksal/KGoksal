@@ -4,10 +4,15 @@
   </a>
 </h1>
 <h3 align="center">I am AWS & DevOps Engineer</h3>
+
  
 - 🔭 I’m currently working on **Docker, Kubernetess, Jenkins**
 
-- 📫 How to reach me **abdulkadirgoksal@gmail.com**
+<h2 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+To+reach+me+abdulkadirgoksal@gmail.com" alt="Title GitHub Readme" />
+  </a>
+</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
