@@ -18,11 +18,13 @@
 
 <p>My background includes using automation tools for software updates across cloud platforms (AWS, Azure), optimizing cloud resources, and managing costs to ensure reliability, scalability, and performance for both enterprise and commercial clients.</p>
 
-<h2 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+To+reach+me+out:;abdulkadirgoksal@gmail.com" alt="Title GitHub Readme" />
-  </a>
-</h2>
+<a href="mailto:abdulkadirgoksal@gmail.com">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
+    <path d="M4 4h16v16H4z"></path>
+    <path d="M22 4l-10 7L2 4"></path>
+  </svg>
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
