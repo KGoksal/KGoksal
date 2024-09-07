@@ -3,13 +3,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Kadir+Goksal" alt="Title GitHub Readme" />
   </a>
 </h1>
-<h1>With over 2 years of IT experience, including more than 1 year in DevOps, I have a strong passion for automating IT operations and staying updated with emerging technologies. My expertise includes implementing and managing CI/CD pipelines (Jenkins), containerization, orchestration, monitoring, and automating production infrastructure. I have a proven track record of building tools to minimize errors, conducting root cause analysis, and enhancing customer experience.</h1>
+<p>With over 2 years of IT experience, including more than 1 year in DevOps, I have a strong passion for automating IT operations and staying updated with emerging technologies. My expertise includes implementing and managing CI/CD pipelines (Jenkins), containerization, orchestration, monitoring, and automating production infrastructure. I have a proven track record of building tools to minimize errors, conducting root cause analysis, and enhancing customer experience.</p>
 
-<h1>With over 2 years of IT experience, including more than 1 year in DevOps, I have a strong passion for automating IT operations and staying updated with emerging technologies. My expertise includes implementing and managing CI/CD pipelines (Jenkins), containerization, orchestration, monitoring, and automating production infrastructure. I have a proven track record of building tools to minimize errors, conducting root cause analysis, and enhancing customer experience.</h1>
+<p>I am certified in the following:</p>
+<ul>
+  <li>HashiCorp Terraform Associate</li>
+  <li>Azure Fundamentals</li>
+  <li>Certified Kubernetes Administrator (CKA)</li>
+</ul>
 
-<h2>I am certified as a HashiCorp Terraform Associate, Azure Fundamentals, and a Certified Kubernetes Administrator (CKA), with proficiency in infrastructure as code using Terraform. Additionally, I have experience using Jira for agile project management, and I am recognized for strong communication, adaptability, and teamwork. I focus on innovative solutions and rigorous testing practices.</h2>
+<p>I am also proficient in infrastructure as code using Terraform and have experience utilizing Jira for agile project management. I am recognized for strong communication, adaptability, and teamwork. I focus on innovative solutions and rigorous testing practices.</p>
 
-<h3>My background also includes using automation tools for software updates across cloud platforms (AWS, Azure), optimizing cloud resources, and managing costs to ensure reliability, scalability, and performance for both enterprise and commercial clients.</h3>
+<p>My background includes using automation tools for software updates across cloud platforms (AWS, Azure), optimizing cloud resources, and managing costs to ensure reliability, scalability, and performance for both enterprise and commercial clients.</p>
 
 <h2 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
