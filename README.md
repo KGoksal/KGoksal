@@ -22,11 +22,12 @@
 
 <p>To reach out to me, click this link:</p>
 <a href="mailto:abdulkadirgoksal@gmail.com">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="green" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
     <path d="M4 4h16v16H4z"></path>
     <path d="M22 4l-10 7L2 4"></path>
   </svg>
 </a>
+
 
 
 <h1 style="text-align: center;">
