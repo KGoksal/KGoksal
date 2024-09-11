@@ -28,7 +28,6 @@
 </a>
 
 
-
 <h1 style="text-align: center;">
   <a href="mailto:abdulkadirgoksal@gmail.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+To+Reach+Out:;abdulkadirgoksal@gmail.com" alt="Title GitHub Readme" />
