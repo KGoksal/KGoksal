@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">
-  <a href="https://www.linkedin.com/in/kgoksal/" target="_blank">
+  <a href="https://www.linkedin.com/in/kgoksal/" target="_blank"> [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@KGoksal)
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Kadir+Goksal" alt="Title GitHub Readme" />
   </a> 
 </h1>
