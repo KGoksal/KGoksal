@@ -12,6 +12,7 @@
 <ul>
   <li><strong>HashiCorp Terraform Associate</strong></li>
   <li><strong>Azure Fundamentals</strong></li>
+  <li><strong>AWS Cloud Practitioner </strong></li>
   <li><strong>Certified Kubernetes Administrator (CKA)</strong></li>
 </ul>
 
