@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> 
+<h1 style="text-align: center;">   
   <a href="https://www.linkedin.com/in/kgoksal/" target="_blank">  
    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;DevOps+Engineer;Kadir+Goksal" alt="Title GitHub Readme" />  
   </a>   
@@ -38,10 +38,10 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@KGoksal) 
 
 
-## 👨‍💻 Professional Skills
+## 👨‍💻 Professional Skills 
 - **Language**: Python | JavaScript | TypeScript | Linux | Oracle | Bash | Python | HTML | CSS | | Scripting Languages | | Amazon AWS Lambda | Apache Tomcat | 
-- **Framework**: React | Spring Boot
-- **DevOps**: Jenkins | Continuous Integration & Continuous Deployment | Docker | Kubernetes | Ansible | Terraform | Maven | 
+- **Framework**: React | Spring Boot 
+- **DevOps**: Jenkins | Continuous Integration & Continuous Deployment | Docker | Kubernetes | Ansible | Terraform | Maven |  
 - **AWS**: EC2 | ECS | ECR | DynamoDB | S3 | Amazon RDS | ALB | Snapshots | Volumes | VPC | EKS | 
 - **Microsoft Azure:** Virtual Machine | Load Balancer | AKS | SQL | 
 - **Logging and Monitoring**: Grafana | Prometheus 
