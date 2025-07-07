@@ -71,7 +71,7 @@
 
 ### **Amazon Web Services (AWS)**
 - EC2 (Elastic Compute Cloud)
-- ECS (Elastic Container Service)
+- ECS (Elastic Container Service) 
 - ECR (Elastic Container Registry)
 - DynamoDB
 - S3 (Simple Storage Service)
