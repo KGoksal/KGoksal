@@ -38,7 +38,6 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@KGoksal) 
 
 
-## 👨‍💻 Professional Skills 
 # Skills and Expertise
 
 ## **Languages**
