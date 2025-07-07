@@ -74,7 +74,7 @@
 - ECS (Elastic Container Service) 
 - ECR (Elastic Container Registry)
 - DynamoDB
-- S3 (Simple Storage Service)
+- S3 (Simple Storage Service) 
 - Amazon RDS (Relational Database Service)
 - ALB (Application Load Balancer)
 - Snapshots
