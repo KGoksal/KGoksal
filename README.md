@@ -44,7 +44,7 @@
 - Python
 - JavaScript
 - TypeScript
-- Linux
+- Linux 
 - Oracle
 - Bash
 - HTML
