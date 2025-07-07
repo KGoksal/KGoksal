@@ -68,7 +68,6 @@
 - Maven
 
 ## **Cloud Platforms**
-
 ### **Amazon Web Services (AWS)**
 - EC2 (Elastic Compute Cloud)
 - ECS (Elastic Container Service) 
