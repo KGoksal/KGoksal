@@ -50,7 +50,6 @@
 - HTML
 - CSS
 
-
 ## **Frameworks**
 - React
 - Spring Boot
