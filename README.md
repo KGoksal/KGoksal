@@ -50,9 +50,6 @@
 - HTML
 - CSS
 
-## **Scripting Languages**
-- Python
-- Bash
 
 ## **Frameworks**
 - React
